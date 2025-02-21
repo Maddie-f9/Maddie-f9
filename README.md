@@ -19,7 +19,7 @@ Here are some of the cool projects I’ve worked on:
 ### 1. **Personal Blog**
 A simple personal blog built with **HTML**, **CSS**, and **JavaScript**. It includes features such as creating, editing, and deleting posts. It uses local storage to save content, making it a fully functional offline blog.
 - **Tech Stack**: HTML, CSS, JavaScript
-- [View the repository here](https://github.com/Maddie-f9/Personal-Blog)
+- [View the repository here](https://maddie-f9.github.io/Personal-Blog1/)
 
 ### 2. **To-Do List Application**
 A task management web app to help users track their daily tasks and manage their time effectively. Built using **React** for the frontend.
