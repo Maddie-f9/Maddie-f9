@@ -29,7 +29,7 @@ A task management web app to help users track their daily tasks and manage their
 ### 3. **Weather App**
 A simple weather application that fetches data from the **OpenWeatherMap API** to display weather forecasts based on the user’s location.
 - **Tech Stack**: JavaScript, HTML, CSS
-- [View the repository here](https://github.com/yourusername/weather-app)
+- [View the repository here](https://github.com/Maddie-f9/Weather-App)
 
 ---
 
