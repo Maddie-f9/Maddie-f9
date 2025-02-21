@@ -24,7 +24,7 @@ A simple personal blog built with **HTML**, **CSS**, and **JavaScript**. It incl
 ### 2. **To-Do List Application**
 A task management web app to help users track their daily tasks and manage their time effectively. Built using **React** for the frontend.
 - **Tech Stack**: React, JavaScript, CSS
-- [View the repository here](https://github.com/Maddie-f9/To-Do-App)
+- [View the repository here](https://maddie-f9.github.io/To-Do-App/)
 
 ### 3. **Weather App**
 A simple weather application that fetches data from the **OpenWeatherMap API** to display weather forecasts based on the user’s location.
